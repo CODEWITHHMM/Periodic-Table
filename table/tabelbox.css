@@ -1,0 +1,47 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', Arial, sans-serif; 
+}
+.one{
+    border-radius: 3px;
+    background-color: rgba(179, 252, 248, 0.938);
+    width: 55px;
+    height: 55px;
+}
+.para{
+    display: flex;
+    justify-content: center;
+    font-size: 11px;
+
+
+
+}
+.nume{
+    font-size: 10px
+}
+.che{
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+
+
+} */
+
+body {
+    font-family: sans-serif;
+    text-align: center;
+    padding-left: 82px;
+}
+abbr {
+    text-decoration: none;
+}
+
+td {
+    height: 15px;
+    width: 50px;
+}
+
+table {
+    margin: 30px;
+}

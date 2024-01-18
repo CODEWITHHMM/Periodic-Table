@@ -1,0 +1,47 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  height: 7481.5px;
+  width: 1583px;
+}
+
+header {
+  size: 1583px 80px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.05);
+}
+.myntralogo {
+  padding-top: 22px;
+  height: 36px;
+  width: auto;
+  /* width: 60px; */
+}
+.logocontainer {
+  height: 80px;
+  width: 53px;
+  margin-left: 63.3125px;
+
+  background-color: rgb(255, 255, 255);
+}
+.nav_bar {
+  font: 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav_bar a {
+  letter-spacing: px;
+  text-decoration: none;
+  color: #282c3f;
+  size: 14px;
+}
+
+.navitem {
+  display: flex;
+  /* margin-left: 3.5%;
+    width: 515.45px;; */
+}

@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px
+    ;
+}
+div{
+    background-color: blue;
+    height: 300px;
+    width: 80px;
+    position: fixed;
+    right: 0px;
+    bottom:30%;
+    z-index: 1;
+}

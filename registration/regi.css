@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box;
+    list-style: none; */
+    font-family:  sans-serif;
+  }
+  body{
+    background: linear-gradient(90deg,#88beee ,#0a2e73) 
+  }
+  .container{
+    
+   /* justify-content: center; */
+   /* text-align: center; */
+    background-color: rgb(255, 255, 255);
+    height: 550px;
+    width: 450px;
+
+  }
+  .home{
+    padding-top: 109px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .REGISTRATION{
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: #256ff8;
+  }
+  .First{
+    font-size: larger;
+    display: flex;
+    justify-content: center
+  }
+  .lastname{
+    
+  padding-left: 15px;
+  }
+  .email{
+    font-size: larger;
+    display: flex;
+    /* text-align: center; */
+    margin-left: 45PX;
+    justify-content: flex-start;
+  }
+  .buttonbox{
+    margin-left: 95PX;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    height: 42px;
+    width: 250px;
+    background-color: #88dfeee3;
+  }
+  .button{
+    
+    width: 80px;
+    height: 30px;
+    background-color: #256ff8;
+    color: white;
+    border-radius: 15px;
+    border-color: #256ff8;
+  }
+  .female{
+    padding-bottom: 10px;
+    margin-left: 30px;
+    color: rgb(77, 74, 74);
+    background-color:  #88dfeee3;
+    border: #88dfeee3 ;
+  }
+  .REGISTRATIONNOW{
+    padding-top: 7px;
+    margin-left: 54PX;
+    display: flex;
+    justify-content: center;
+    height: 35px;
+    width: 335px;
+    color: white;
+    background-color: #256ff8;
+    color: white;
+}
+   /* border:color(w red green blue); */
+  
+  .boxsize1{
+    
+    height: 25px;
+    color: #0a2e73;
+  }
+  
+  .boxsize2{
+    margin-left: 45PX;
+    height: 25px;
+    width:355px ;
+  }
+  .boxsize2:focus{
+    outline: none;
+  }
+  /* .main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } */
+
+  .second{
+  
+   justify-content: center;
+   
+   
+  
+    
+  }
